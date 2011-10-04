@@ -1,0 +1,38 @@
+* Thu Jun 24 2010 Yan Yin <yan.yin@intel.com> - 1.0.8
+- Change to YAML format
+- Upgrade to 1.0.8
+
+* Sat May 09 2009 Anas Nashif <anas.nashif@intel.com> 1.0.0
+- Initial import into Moblin
+
+* Wed Feb 25 2009 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.0.0-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_11_Mass_Rebuild
+
+* Mon Dec 15 2008 - Bastien Nocera <bnocera@redhat.com> - 1.0.0-1
+- Update to 1.0.0
+
+* Fri Nov 21 2008 - Bastien Nocera <bnocera@redhat.com> - 0.9.4-1
+- Update to 0.9.4
+
+* Tue Sep 23 2008 Jindrich Novy <jnovy@redhat.com> 0.9.3-0.1
+- update to 0.9.3
+
+* Sun Jul 06 2008 - Bastien Nocera <bnocera@redhat.com> - 0.9.1
+- Update to 0.9.1
+
+* Mon May 26 2008 Jindrich Novy <jnovy@redhat.com> 0.9.0-0.4
+- update to official beta
+
+* Thu May 23 2008 Jindrich Novy <jnovy@redhat.com> 0.9.0-0.3.gitbef33bb
+- update comment on how the tarball was created
+- use abbreviated git hash within package name to avoid conflicts
+- add to %%description that libusb1 is incompatible with libsub-0.1
+
+* Thu May 22 2008 Jindrich Novy <jnovy@redhat.com> 0.9.0-0.2.gitbef33bb
+- add info on how the snapshot tarball was created
+
+* Wed May 21 2008 Jindrich Novy <jnovy@redhat.com> 0.9.0-0.1.gitbef33bb
+- use proper version to denote it is a git snapshot
+
+* Thu May 15 2008 Jindrich Novy <jnovy@redhat.com> 0.9.0-0.1
+- initial packaging
