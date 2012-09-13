@@ -1,7 +1,7 @@
 Name: libusb1
 Summary: A library which allows userspace access to USB devices
-Version: 1.0.8
-Release: 2
+Version: 1.0.9
+Release: 1
 Group: System/Libraries
 License: LGPLv2+
 URL: http://libusb.wiki.sourceforge.net/Libusb1.0
