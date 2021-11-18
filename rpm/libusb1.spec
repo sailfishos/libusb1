@@ -23,10 +23,10 @@ This package contains the header files, libraries  and documentation needed to
 develop applications that use libusb1.
 
 %prep
-%autosetup -p -n %{name}-%{version}/%{name}
+%autosetup -p1 -n %{name}-%{version}/%{name}
 
 %build
-./autogen.sh
+%autogen
 %configure
 # Parallel build fails, thus %{?jobs:-j%jobs} not here.
 make
