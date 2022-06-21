@@ -3,7 +3,7 @@ Summary:    A library which allows userspace access to USB devices
 Version:    1.0.24
 Release:    1
 License:    LGPLv2+
-URL:        https://libusb.info/
+URL:        https://github.com/sailfishos/libusb1
 Source0:    %{name}-%{version}.tar.bz2
 Requires(post): /sbin/ldconfig
 Requires(postun): /sbin/ldconfig
