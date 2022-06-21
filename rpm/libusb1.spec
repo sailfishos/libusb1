@@ -6,7 +6,7 @@ Version:    1.0.20
 Release:    1
 Group:      System/Libraries
 License:    LGPLv2+
-URL:        http://libusb.info/
+URL:        https://github.com/sailfishos/libusb1
 Source0:    %{name}-%{version}.tar.bz2
 Requires(post): /sbin/ldconfig
 Requires(postun): /sbin/ldconfig
