@@ -1,6 +1,6 @@
 Name:       libusb1
 Summary:    A library which allows userspace access to USB devices
-Version:    1.0.24
+Version:    1.0.26
 Release:    1
 License:    LGPLv2+
 URL:        https://github.com/sailfishos/libusb1
